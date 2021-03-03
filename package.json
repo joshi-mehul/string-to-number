@@ -1,6 +1,6 @@
 {
   "name": "string-to-number-hash-bucket",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a hash function that will covert any string input to number ranging from 0 to 16777215",
   "main": "index.js",
   "scripts": {
