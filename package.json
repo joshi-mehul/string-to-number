@@ -1,0 +1,26 @@
+{
+  "name": "string-to-number",
+  "version": "0.0.1",
+  "description": "This is a hash function that will covert any string input to number ranging from 0 to 16777215",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshi-mehul/string-to-number.git"
+  },
+  "keywords": [
+    "string",
+    "number",
+    "string-to-number",
+    "string-to-color",
+    "string-to-hex-color"
+  ],
+  "author": "Mehul Joshi <mehul0923@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshi-mehul/string-to-number/issues"
+  },
+  "homepage": "https://github.com/joshi-mehul/string-to-number#readme"
+}
